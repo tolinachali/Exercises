@@ -33,7 +33,7 @@ The number of sequences are:  2656
  ## And the logo plot  for hsa is 
 ![mature__uniqseeds_logoplt](https://user-images.githubusercontent.com/130226558/234088020-aaaae7e0-a799-469a-997a-de55491e1030.png)
 
-## GC percent for rat is 
+## GC percent for mmu is 
 Average GC % = <70.50310821391368>
 The number of sequences are:  1978
 ## GC frequency for mmu is 
@@ -53,7 +53,7 @@ The number of sequences are:  1978
 2023-04-26 11:52:52,483 - root - INFO - +****************************************************************************************************+
 2023-04-26 11:52:52,483 - root - DEBUG - debug mode is on
 
-## and the logo plot fo rat  is 
+## and the logo plot fo mmu  is 
   ![mature__uniqseeds_logoplt](https://user-images.githubusercontent.com/130226558/234096058-ebf8c980-d78a-47ec-a457-1017b8da2546.png)
 
 ## GC percent for rno
