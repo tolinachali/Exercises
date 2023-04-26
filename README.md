@@ -1,4 +1,9 @@
-# This is summary of some finding on GC calc project
+# This is a summary of some finding on complexity and  GC calc project
+# Question No #1  
+## Add a logger method to the complexity project and Add a parameter using parseargs that sets nmax
+
+![fibonacci_timing_0_to_10](https://user-images.githubusercontent.com/130226558/234590363-9dce85b6-996d-4232-8c43-abde5f24bcbe.png)
+
 
 ## GC percent and logo plot for Homo Sapiens
 average GC % = <70.05512368618675>
